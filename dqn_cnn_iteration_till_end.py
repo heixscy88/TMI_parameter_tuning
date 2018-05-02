@@ -1,13 +1,4 @@
-"""DQN Class
 
-DQN(NIPS-2013)
-"Playing Atari with Deep Reinforcement Learning"
-https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
-
-DQN(Nature-2015)
-"Human-level control through deep reinforcement learning"
-http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
-"""
 import numpy as np
 import tensorflow as tf
 import gzip
